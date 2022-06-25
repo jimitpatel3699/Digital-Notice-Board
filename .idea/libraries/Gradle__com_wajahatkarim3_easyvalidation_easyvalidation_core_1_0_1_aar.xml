@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wajahatkarim3.easyvalidation:easyvalidation-core:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a93c29603af767de4b8bb902678dad35/jetified-easyvalidation-core-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a93c29603af767de4b8bb902678dad35/jetified-easyvalidation-core-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a93c29603af767de4b8bb902678dad35/jetified-easyvalidation-core-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33cdf597007ffb4183b727ae8d09f197/jetified-easyvalidation-core-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33cdf597007ffb4183b727ae8d09f197/jetified-easyvalidation-core-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/33cdf597007ffb4183b727ae8d09f197/jetified-easyvalidation-core-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2b353a85e5cfcdfa19480059cb0350d/jetified-easyvalidation-core-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2b353a85e5cfcdfa19480059cb0350d/jetified-easyvalidation-core-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2b353a85e5cfcdfa19480059cb0350d/jetified-easyvalidation-core-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/712ffff97041d75c63412eec21794093/transformed/jetified-easyvalidation-core-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/712ffff97041d75c63412eec21794093/transformed/jetified-easyvalidation-core-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/712ffff97041d75c63412eec21794093/transformed/jetified-easyvalidation-core-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wajahatkarim3.easyvalidation/easyvalidation-core/1.0.1/7e8d1c0f9eba6a0335a7ba78953d169fadb7c2dd/easyvalidation-core-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wajahatkarim3.easyvalidation/easyvalidation-core/1.0.1/8ea0e60686994ffbdcb1ff556198f2de7fe34efc/easyvalidation-core-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
